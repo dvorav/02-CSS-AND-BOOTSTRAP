@@ -1,0 +1,12 @@
+body {
+    background: url('https://cdn.pixabay.com/photo/2017/01/20/11/50/landscape-1994685_1280.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+#imageset {
+  max-width: 350px; 
+  height: 450px; 
+  object-fit: fill;
+}
