@@ -2,4 +2,18 @@ My portfolio does not carry any projects at the moment, because I do not have mu
 
 There is one issue I cannot figure out, and that is the having the footer be responsive. It may look or be buggy when resizing the browser. 
 
+
+
+This image shows the index.html being responsive.
+
 ![HTMLCSS](CSS/images/aboutMe.png)
+
+
+This image shows the contactMe.html being responsive.
+
+![HTMLCSS](CSS/images/contactMe.png)
+
+
+This image shows the portfolio.html being responsive.
+
+![HTMLCSS](CSS/images/portfolio.png)
