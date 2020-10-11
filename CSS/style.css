@@ -1,3 +1,4 @@
+/* Adding the background to the page */
 body {
     background: url('https://cdn.pixabay.com/photo/2017/01/20/11/50/landscape-1994685_1280.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -5,8 +6,19 @@ body {
     background-size: cover;
     -o-background-size: cover;
   }
+/* this alters the image size on the index.html page */
+
 #imageset {
   max-width: 350px; 
   height: 450px; 
   object-fit: fill;
+}
+
+/* ID for trying to fix responsive footer on contact.html s*/
+.res-bottom {
+  position: absolute;
+  position: absolute;
+bottom: 0;
+left: 0;
+width: 100%;
 }
