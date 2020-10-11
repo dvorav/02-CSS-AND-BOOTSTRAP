@@ -11,7 +11,7 @@ This image shows the index.html being responsive.
 
 This image shows the contactMe.html being responsive.
 
-![HTMLCSS](CSS/images/contactMe.png)
+![HTMLCSS](CSS/images/contactPage.png)
 
 
 This image shows the portfolio.html being responsive.
