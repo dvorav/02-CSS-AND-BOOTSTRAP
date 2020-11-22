@@ -22,3 +22,27 @@ bottom: 0;
 left: 0;
 width: 100%;
 }
+
+.bolder {
+  font-weight: bolder;
+  color: grey;
+  font-size: 2rem;
+}
+
+.content {
+  font-size: 1.4rem;
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: grey;
+}
+.blockA {
+  display: block;
+  color: white;
+}
+
+.img {
+  height: 350px;
+  width: 400px;
+}
