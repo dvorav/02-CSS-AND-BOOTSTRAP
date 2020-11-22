@@ -5,7 +5,7 @@ Here I am introducing my Portfolio page to you. There is very little information
 
 This image shows the index.html being responsive.
 
-![HTMLCSS](CSS/images/aboutMe.png)
+![HTMLCSS](CSS/images/mainImg.png)
 
 
 This image shows the contactMe.html being responsive.
@@ -15,4 +15,4 @@ This image shows the contactMe.html being responsive.
 
 This image shows the portfolio.html being responsive.
 
-![HTMLCSS](CSS/images/portfolio.png)
+![HTMLCSS](CSS/images/portfolioImg.png)
